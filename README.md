@@ -1,4 +1,5 @@
-## Hola soy Lautaro Portillo, Desarrollador FullStack
+# Hola! 🫡 soy Lautaro Portillo. Tecnólogo en Informatica 👨🏼‍💻
+
 
 <!--
 **lautaroBulla/lautaroBulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
