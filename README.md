@@ -1,19 +1,9 @@
-# Hola! 🫡 soy Lautaro Portillo. Tecnólogo en Informatica 👨🏼‍💻
+<h1 align="center">Hola, soy Lautaro 👋</h1>
 
-Soy Desarrollador FullStack, proactivo en mi aprendizaje, siempre aprendiendo algo nuevo.
+<img src="./linkedin-header.png" alt="LinkedIn Header" width="100%" />
 
-
-<!--
-**lautaroBulla/lautaroBulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.lautaroportillo.dev" target="_blank">🌐 Mi Portfolio</a> ‧
+  <a href="https://www.linkedin.com/in/lautaroportillo" target="_blank">LinkedIn</a> ‧
+  <a href="mailto:lautaro.portillo.bulla@gmail.com">Email</a>
+</p>
