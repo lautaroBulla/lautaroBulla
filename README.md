@@ -48,6 +48,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=net" height="30" alt="net logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
