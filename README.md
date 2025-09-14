@@ -42,17 +42,13 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=net" height="30" alt="net logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="30" alt="sqlserver logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
   <img width="5" />
